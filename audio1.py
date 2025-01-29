@@ -1,4 +1,4 @@
-from gtts import cd
+from gtts import ga
 import os
 text="kk.txt"
 audio="audio.mp3"

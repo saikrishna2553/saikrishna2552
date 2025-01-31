@@ -1,3 +1,4 @@
+# Text converted  audio.mp3 
 from gtts import ga
 import os
 text="kk.txt"
